@@ -1,0 +1,60 @@
+*
+{
+	margin : 0px;
+	padding:0px;
+}
+.div1 
+{
+	background-color:#07316e;
+}
+.about
+{
+	background-color:#07316e;
+	padding:10px 20px 10px 20px;
+}
+.about ul li
+{
+	display:inline-block;
+	margin-left:40;
+	padding:15px;
+	list-style:none;
+	background-color:#244a80;
+	text-align:center;
+}
+.home
+{
+	color:#ffffff;
+	font-size:20px;
+	text-decoration:none;
+}
+.home:hover
+{
+	color:#99f2b1;
+	font-size:21px;
+}
+.item ul li 
+{
+	list-style:none;
+}
+#print
+{
+	background-color:#f0f5f4;	
+}
+.quantity
+{
+	justify-content:center;
+}
+.quantity button 
+{
+	width:25px;
+	height:25px;
+}
+.quantity  
+{
+	width:100px;
+	height:35px;
+	border-radius:10% 10% 10% 10%;
+	text-align:center;
+	border:0.5px solid;
+	background-color:#f0f5f4;
+}
